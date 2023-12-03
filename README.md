@@ -1,5 +1,7 @@
 # MineCraft - Residences - Spigot
 > Residences Plugin by zrips, SickProdigy's Guides and helpful info.
+>
+> No longer maintained here - https://gitea.rcs1.xyz/SickGaming/minecraft-server/src/branch/main/Residences
 
 ## Links:
 * [Creating Residences](/Creating-Residences.md)
